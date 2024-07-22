@@ -1,2 +1,1 @@
-# Go-Course
-Started a course on GO, and I would push my progress over here
+This is my progress along a GO course I started watching. Special thanks to Hemin Hosseinapanah.
